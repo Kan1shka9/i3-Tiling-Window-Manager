@@ -1,4 +1,4 @@
-# :dash: i3-Tiling-Window-Manager
+# 🗔 i3-Tiling-Window-Manager
 
 ###### Install i3
 
@@ -32,5 +32,3 @@ i3lock|Lock screen
 ```sh
 i3-config-wizard
 ```
-
-
